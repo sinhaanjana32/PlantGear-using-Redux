@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PlantGear-using-Redux/static/css/main.52b07ff3.chunk.css",
+    "main.js": "/PlantGear-using-Redux/static/js/main.36ca39a9.chunk.js",
+    "main.js.map": "/PlantGear-using-Redux/static/js/main.36ca39a9.chunk.js.map",
+    "runtime-main.js": "/PlantGear-using-Redux/static/js/runtime-main.ab3245ec.js",
+    "runtime-main.js.map": "/PlantGear-using-Redux/static/js/runtime-main.ab3245ec.js.map",
+    "static/js/2.94e16cd6.chunk.js": "/PlantGear-using-Redux/static/js/2.94e16cd6.chunk.js",
+    "static/js/2.94e16cd6.chunk.js.map": "/PlantGear-using-Redux/static/js/2.94e16cd6.chunk.js.map",
+    "index.html": "/PlantGear-using-Redux/index.html",
+    "precache-manifest.7934f9f49175c945f267f494fbd52f73.js": "/PlantGear-using-Redux/precache-manifest.7934f9f49175c945f267f494fbd52f73.js",
+    "service-worker.js": "/PlantGear-using-Redux/service-worker.js",
+    "static/css/main.52b07ff3.chunk.css.map": "/PlantGear-using-Redux/static/css/main.52b07ff3.chunk.css.map",
+    "static/js/2.94e16cd6.chunk.js.LICENSE.txt": "/PlantGear-using-Redux/static/js/2.94e16cd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3245ec.js",
+    "static/js/2.94e16cd6.chunk.js",
+    "static/css/main.52b07ff3.chunk.css",
+    "static/js/main.36ca39a9.chunk.js"
+  ]
+}
